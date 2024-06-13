@@ -2,16 +2,16 @@
 
 - This repo contains project assessment code for the javascript course under metacrafters
 
-#Code outline 
+# Code outline 
 
 - this javascript file contains 3 main functions
 - ListNFT
 - MintNFT
 - GetTotalSupply
 
-#Run This File
+# Run This File
 - on local/GitPod
 - run node [file_name].js
 
-#Project By
+# Project By
 - Abhishek Raj
